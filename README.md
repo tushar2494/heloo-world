@@ -1,2 +1,2 @@
-# heloo-world
+# hello-world
 Stairway to heaven
